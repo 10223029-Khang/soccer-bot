@@ -3,9 +3,9 @@
 First-year team project for the VGU Soccer Bot competition (2023). An Arduino robot driven over
 Bluetooth, with an H-bridge stage and TT gear motors. Chassis designed and assembled by the team.
 
-**The firmware here is the original competition code, unmodified.** Known defects are documented
-below rather than silently fixed — see *Review, two years on*.
-
+**`soccer_bot_original.ino` is the original competition code, unmodified.** Known defects are
+documented below rather than silently fixed — see *Review, two years on*.
+**`soccer_bot_improved.ino`** is a corrected rewrite addressing all four.
 ## Demo
 
 - [Match footage](PASTE_YOUTUBE_UNLISTED_LINK_HERE)
