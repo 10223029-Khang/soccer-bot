@@ -8,8 +8,7 @@ documented below rather than silently fixed — see *Review, two years on*.
 **`soccer_bot_improved.ino`** is a corrected rewrite addressing all four.
 ## Demo
 
-- [Match footage](PASTE_YOUTUBE_UNLISTED_LINK_HERE)
-- [Drive test](PASTE_YOUTUBE_UNLISTED_LINK_HERE)
+- [Drive test](https://youtube.com/shorts/bxrobrjBZA8?feature=share)
 
 ## Hardware
 
